@@ -1,0 +1,24 @@
+{
+  "name": "typescript_training",
+  "version": "1.0.0",
+  "description": "I will learn TS with this repo",
+  "main": "basics.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtek0126/TypeScript_training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojtek0126/TypeScript_training/issues"
+  },
+  "homepage": "https://github.com/wojtek0126/TypeScript_training#readme"
+}
